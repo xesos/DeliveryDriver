@@ -63,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Driver.cs" />
+    <Compile Include="Assets\Delivery.cs" />
+    <Compile Include="Assets\FollowCamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
